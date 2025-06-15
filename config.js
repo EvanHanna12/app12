@@ -1,6 +1,6 @@
 module.exports = {
   bot: {
-    token: "NzkxMTUwOTAxODIxMzA4OTUw.GKfd6e.BLjE4zcBPKCldAhFO5WTx_zlCEhkrwjZ3LAcGw", // Bot List Bot Token from https://discord.com/developers/applications
+    token: "", // Bot List Bot Token from https://discord.com/developers/applications
     owners: ["485139648071598105"],
     mongourl: "mongodb+srv://auserthatjoin:aa123456@dislord.tad6e3t.mongodb.net/?retryWrites=true&w=majority&appName=dislord", //https://mongodb.com/cloud/atlas/register
     servers: {
