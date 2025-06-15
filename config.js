@@ -1,17 +1,17 @@
 module.exports = {
   bot: {
-    token: "", // Bot List Bot Token from https://discord.com/developers/applications
-    owners: [""],
-    mongourl: "", //https://mongodb.com/cloud/atlas/register
+    token: "NzkxMTUwOTAxODIxMzA4OTUw.GKfd6e.BLjE4zcBPKCldAhFO5WTx_zlCEhkrwjZ3LAcGw", // Bot List Bot Token from https://discord.com/developers/applications
+    owners: ["485139648071598105"],
+    mongourl: "mongodb+srv://auserthatjoin:aa123456@dislord.tad6e3t.mongodb.net/?retryWrites=true&w=majority&appName=dislord", //https://mongodb.com/cloud/atlas/register
     servers: {
       token: "" // Server List Bot Token
     },
   },
 
   website: {
-    callback: "", //example : https://vcodes.xyz/callback avoid / at last.
-    secret: "",
-    clientID: "", // Bot client id.
+    callback: "https://plastic-amethyst-crystal.glitch.me/callback", //example : https://vcodes.xyz/callback avoid / at last.
+    secret: "Csau-r2nhrCQHbyrkKAssqhxOJ5MvNeS",
+    clientID: "791150901821308950", // Bot client id.
     tags: [
       "Moderation",
       "Fun",
@@ -142,13 +142,13 @@ module.exports = {
   },
 
   server: {
-    id: "",
-    invite: "",
+    id: "791474571249188895",
+    invite: "https://discord.gg/dBDBBjJ5gZ",
     roles: {
-      administrator: "",
-      moderator: "",
+      administrator: "1383654471850266695",
+      moderator: "1383654533476909148",
       profile: {
-        sitecreator: "",
+        sitecreator: "Evan H.",
         booster: "",
         sponsor: "",
         supporter: "",
@@ -165,20 +165,20 @@ module.exports = {
         twentyInvite: "",
       },
       botlist: {
-        developer: "",
-        certified_developer: "",
-        bot: "", // This is not your Bot ID, This is the Role ID Approved Bots get when they join your server
-        certified_bot: "",
+        developer: "1383650121040003115",
+        certified_developer: "1383650266586284053",
+        bot: "1383649333488123955", // This is not your Bot ID, This is the Role ID Approved Bots get when they join your server
+        certified_bot: "1383650343489110106",
       },
     },
     channels: {
-      codelog: "",
-      login: "",
-      webstatus: "",
-      uptimelog: "",
-      botlog: "",
-      votes: "",
-      reportlog: ""
+      codelog: "791474572166692899",
+      login: "791474572166692899",
+      webstatus: "791474572166692899",
+      uptimelog: "791474572166692899",
+      botlog: "791474572166692899",
+      votes: "791474572166692899",
+      reportlog: "791474572166692899"
     },
   },
 };
